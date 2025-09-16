@@ -1,0 +1,1 @@
+alert("THIS IS IN JS")
